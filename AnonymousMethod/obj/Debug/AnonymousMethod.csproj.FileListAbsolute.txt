@@ -1,0 +1,6 @@
+C:\Shuja\DotNetSamples\F10\Delegates\AnonymousMethod\obj\Debug\AnonymousMethod.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\F10\Delegates\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+C:\Shuja\DotNetSamples\F10\Delegates\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+C:\Shuja\DotNetSamples\F10\Delegates\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+C:\Shuja\DotNetSamples\F10\Delegates\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+C:\Shuja\DotNetSamples\F10\Delegates\AnonymousMethod\obj\Debug\AnonymousMethod.pdb

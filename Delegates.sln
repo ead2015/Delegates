@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{61AA67B1-7A7C-4282-875C-A457F753FB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCastDelegate", "MultiCastDelegate\MultiCastDelegate.csproj", "{1D4F7D9F-92F9-4E31-83F8-A46288F18770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMethod", "AnonymousMethod\AnonymousMethod.csproj", "{6FD5EBBF-6F75-4D90-AD5F-579461A23C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{E818C993-858F-4291-81A7-28015F222821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61AA67B1-7A7C-4282-875C-A457F753FB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AA67B1-7A7C-4282-875C-A457F753FB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AA67B1-7A7C-4282-875C-A457F753FB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AA67B1-7A7C-4282-875C-A457F753FB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4F7D9F-92F9-4E31-83F8-A46288F18770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4F7D9F-92F9-4E31-83F8-A46288F18770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4F7D9F-92F9-4E31-83F8-A46288F18770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4F7D9F-92F9-4E31-83F8-A46288F18770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD5EBBF-6F75-4D90-AD5F-579461A23C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD5EBBF-6F75-4D90-AD5F-579461A23C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD5EBBF-6F75-4D90-AD5F-579461A23C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD5EBBF-6F75-4D90-AD5F-579461A23C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E818C993-858F-4291-81A7-28015F222821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E818C993-858F-4291-81A7-28015F222821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E818C993-858F-4291-81A7-28015F222821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E818C993-858F-4291-81A7-28015F222821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

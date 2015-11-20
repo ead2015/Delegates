@@ -1,0 +1,6 @@
+C:\Shuja\DotNetSamples\F10\Delegates\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe.config
+C:\Shuja\DotNetSamples\F10\Delegates\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe
+C:\Shuja\DotNetSamples\F10\Delegates\MultiCastDelegate\bin\Debug\MultiCastDelegate.pdb
+C:\Shuja\DotNetSamples\F10\Delegates\MultiCastDelegate\obj\Debug\MultiCastDelegate.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\F10\Delegates\MultiCastDelegate\obj\Debug\MultiCastDelegate.exe
+C:\Shuja\DotNetSamples\F10\Delegates\MultiCastDelegate\obj\Debug\MultiCastDelegate.pdb

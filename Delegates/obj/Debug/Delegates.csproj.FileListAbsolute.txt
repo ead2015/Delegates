@@ -1,0 +1,6 @@
+C:\Shuja\DotNetSamples\F10\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Shuja\DotNetSamples\F10\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Shuja\DotNetSamples\F10\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Shuja\DotNetSamples\F10\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\F10\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Shuja\DotNetSamples\F10\Delegates\Delegates\obj\Debug\Delegates.pdb

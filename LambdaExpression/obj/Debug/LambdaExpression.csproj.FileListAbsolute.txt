@@ -1,0 +1,6 @@
+C:\Shuja\DotNetSamples\F10\Delegates\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+C:\Shuja\DotNetSamples\F10\Delegates\LambdaExpression\bin\Debug\LambdaExpression.exe
+C:\Shuja\DotNetSamples\F10\Delegates\LambdaExpression\bin\Debug\LambdaExpression.pdb
+C:\Shuja\DotNetSamples\F10\Delegates\LambdaExpression\obj\Debug\LambdaExpression.exe
+C:\Shuja\DotNetSamples\F10\Delegates\LambdaExpression\obj\Debug\LambdaExpression.pdb
+C:\Shuja\DotNetSamples\F10\Delegates\LambdaExpression\obj\Debug\LambdaExpression.csprojResolveAssemblyReference.cache
